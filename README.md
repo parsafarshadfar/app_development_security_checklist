@@ -1,6 +1,7 @@
 # 🛡️ Universal Security Standard for AI-Assisted Projects
 
-**Don’t let an AI coding agent accidentally build your startup’s bankruptcy.**
+
+##**Don’t let an AI coding agent accidentally build your startup’s bankruptcy.**
 
 A single prompt injection can drain your LLM API wallet overnight. A single forgotten trust boundary can leak your entire database.
 
