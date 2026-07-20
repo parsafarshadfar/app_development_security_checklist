@@ -1,8 +1,8 @@
-# 🛡️ Universal Security Standard for AI-Assisted Projects (App development and AI Security Checklist)
+# 🛡️ Universal Security Standard for AI-Assisted Projects
 
 > **Don’t let an AI coding agent accidentally build your startup’s bankruptcy.** "A single prompt injection can drain your LLM API wallet overnight. A single forgotten trust boundary can leak your entire database." 
 
-Welcome to the ultimate **AI coding agent security checklist** and **LLM security baseline**. AI coders (like Cursor, Claude, Codex, Antigravity, etc) are incredibly fast and powerful, but they don't have common sense about security. They write code that "works," but they'll gladly skip validation, ignore rate limits, or link your LLM to destructive tools if you ask them to. 
+Welcome to the ultimate **AI coding agent security checklist** and **LLM security baseline**. AI coders (like Cursor, Claude, Codex, Lovable.ai, Antigravity, etc) are incredibly fast and powerful, but they don't have common sense about security. They write code that "works," but they'll gladly skip validation, ignore rate limits, or link your LLM to destructive tools if you ask them to. 
 
 This repository contains **app-security-checklist.md**—a lightweight, token-efficient security standard for AI-assisted software development, designed to prevent prompt injection vulnerabilities, DDOS cost abuse, data leaks, and API bill exhaustion.
 
