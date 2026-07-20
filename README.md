@@ -4,9 +4,9 @@
 
 A single forgotten trust boundary can leak your entire database. A single prompt injection can drain your LLM API wallet overnight. 
 
-Welcome to the ultimate **AI coding agent security checklist** and **LLM security baseline**. AI coders (like Cursor, Claude, Codex, Lovable.ai, Antigravity, etc) are incredibly fast and powerful, but they don't have enough common sense about security. They write code that "works," but they'll gladly skip security validations, if you don't explicitly instruct them to check for these things. 
+Welcome to the ultimate **Security Checklist for AI-Assisted Coding**. AI coders (like Cursor, Claude, Codex, Lovable.ai, Antigravity, etc) are incredibly fast and powerful, but they don't have enough common sense about security. They write code that "works," but they'll gladly skip security validations, if you don't explicitly instruct them to check for these things. 
 
-This repository contains **app-security-checklist.md**, a lightweight, token-efficient security standard for AI-assisted software development, designed to prevent prompt injection vulnerabilities, DDOS cost abuse, data leaks, and API bill exhaustion.
+This repository contains **app-security-checklist.md**, a lightweight, token-efficient security **guardrail** and standard for AI-assisted software development, designed to prevent security vulnerabilities. AI agents tend to ignore security unless they are explicitly told to check for it and prove it.
 
 ---
 
@@ -17,7 +17,7 @@ If you let an AI write features without a security framework, you risk:
 * **The "Works on my machine" Auth Bypass:** AI builds a sleek UI but forgets to verify permissions on the backend API.
 * **Open Backdoors:** Sandbox escape, prompt injections, or debug ports left open in production.
 
-By dropping this file into your repo, you give your AI agent a strict set of rules it *must* check and prove with evidence before you ship.
+By dropping this file into your repo, you establish a critical security **guardrail**, a strict set of rules your AI agent *must* check and prove with evidence before you ship.
 
 ---
 
